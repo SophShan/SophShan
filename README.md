@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Skills
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,js,typescript,react,nodejs,expressjs,html,css,unity)
