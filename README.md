@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 # Skills
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,js,typescript,react,nodejs,expressjs,html,css,unity)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,java,js,typescript,react,nodejs,expressjs,mongodb,html,css,c,cs,unity)
